@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of thanksgiving for the happy delivery of Charles the second King of England, &amp;c. from the conspiracy of 1683 Preached the ninth of September 1683. in Thomas-Town in the county of Kilkenny.</title>
+            <author>E. M.</author>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50888</idno><idno type="EEBO-CITATION">99833844</idno>
+  <idno type="VID">38322</idno>
+  <idno type="EEBO-PROQUEST">2248555016</idno>
+  
+            <idno type="STC">Wing M20A</idno>
+            <idno type="STC">ESTC R222701</idno>
+            <idno type="PROQUEST">99833844</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833844e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50888)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2212:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of thanksgiving for the happy delivery of Charles the second King of England, &amp;c. from the conspiracy of 1683 Preached the ninth of September 1683. in Thomas-Town in the county of Kilkenny.</title>
+                  <author>E. M.</author>
+               </titleStmt>
+               <extent>[4], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for P.K. and are to be sold by William Weston in Christ-Church-Lane Dublin.</publisher>
+                  <pubPlace>Rotterdam :</pubPlace>
+                  <date>[1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: E.M.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rye House Plot, 1683 --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38322:1"/>
+            <p>A SERMON OF THANKSGIVING For the Happy Delivery of CHARLES the Second KING of England, &amp;c. From the Conspiracy of 1683. Preached the ninth of September 1683. in Thomas-Town in the County of KILKENNY.</p>
+            <p>ROTTERDAM, Printed for P. K. and are to be Sold by William Weston in Christ-Church-Lane Dublin.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38322:2"/>
+            <pb facs="tcp:38322:2"/>
+            <head>To the Right Honourable James Lord Viscount Ikirryn, &amp;c.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THis small Present will be censured disrespect, if the greatness of the Sub<g ref="char:EOLhyphen"/>ject do not supply its bulk: It speaks of Loyalty, wherein nothing is small; as in its opposite, Vice, Treason, I deem nothing but great; a Subject suitable to your Lord<g ref="char:EOLhyphen"/>ships inclination, and very commonly the matter of your discourse: A Vertue, that besides being hereditary to the Noble Fa<g ref="char:EOLhyphen"/>mily, whereof your House is a great branch, is so singular in your Lordship, that it de<g ref="char:EOLhyphen"/>servedly crowns all the other Noble Qua<g ref="char:EOLhyphen"/>lities of body and mind, wherewith the Heavens have plentifully blessed your per<g ref="char:EOLhyphen"/>son, whose rehearsal your modesty forces me to omit, and confine my Epistle both
+<pb facs="tcp:38322:3"/>to the subject and brevity of the discourse, wherein what is low and imperfect will be winked at, when once Honoured by your Lordships acceptance; and will be con<g ref="char:EOLhyphen"/>strued in favour of the Endeavours of your Lordships very Humble Servant,</p>
+            <closer>
+               <signed>E. M.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:38322:3"/>
+            <head>A Sermon of Thanksgiving for the Kings happy delivery, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>Text, Matth. 22. Ver. 21.</bibl>
+                  <p>Reddite quae sunt Caesaris, Caesari.</p>
+                  <p>Give unto Caesar what belongs to Caesar.</p>
+               </q>
+            </epigraph>
+            <p>AT length appeared the happy day, wonderfully lon<g ref="char:EOLhyphen"/>ged for by our zealous Loyalty, to pour out in pub<g ref="char:EOLhyphen"/>lick those thanks to Almighty God, which frequently we offered in the secret altar of our souls, for the most bles<g ref="char:EOLhyphen"/>sed delivery of the best of Princes: Never did a better King rule subjects; never were subjects more ungrateful to a de<g ref="char:EOLhyphen"/>serving Prince. His Royal parts, his Imperial merits were the joy always of his Nations, were either the emulation or check of his Neighbours, and the encouragement of his Sub<g ref="char:EOLhyphen"/>jects: Never did the Realm enjoy such years of Peace, never the present Wealth, never the present Settlement and Felicity. A Prince that has been certainly the great care of the Hea<g ref="char:EOLhyphen"/>vens in all his passages: Of old did the birds of the Air for<g ref="char:EOLhyphen"/>sake their bed to lend him a nights lodging in the Oake; the insensible Trees knitted their Branches, and wove of their leaves a Canopy to abscond him from the fury of his enemies. An Oake more Royal for being the Throne then of <hi>Charles,</hi> than for being <hi>Jupiters</hi> Tree. Of new, in this last passage the Sun advanced all its Beams,<note place="margin">The disco<g ref="char:EOLhyphen"/>very be<g ref="char:EOLhyphen"/>ing in <hi>June.</hi>
+               </note> ran the longest course of days to search this horrid contrivance, and leave the fewer hours of darkness to cloud so black a design. The elements contributed
+<pb n="2" facs="tcp:38322:4"/>to his welfare, and by the accidental Fire of <hi>Newmarket</hi> lighted him Torches for his escape. Enemies they are to Heaven, they forfeit the influence of the Planets, they deserve the furious efforts of the Elements that contrived mischief against the Darling of Heaven; Planets and Elements that were denying <hi>Cesar</hi> not only what belonged to him by his Birthright, and all the Laws of Heaven and Earth, but the very breath where<g ref="char:EOLhyphen"/>by he lived. This to inlarge, will be the work of the follow<g ref="char:EOLhyphen"/>ing discourse, which to compass, help me to oblige to our as<g ref="char:EOLhyphen"/>sistance the Mother of Mercy, saluting her with the Angel, <hi>Hail Mary, &amp;c.</hi>
+            </p>
+            <q>
+               <bibl>Matt. 22. Ver. 21.</bibl>
+               <p>
+                  <hi>Reddite quae sunt</hi> Caesaris, Caesari.</p>
+            </q>
+            <q>
+               <p>
+                  <hi>Give unto</hi> Cesar <hi>what belongs to</hi> Cesar.</p>
+            </q>
+            <p>NOthing more inculcated by Catholick Tenets, than due obedience to our Princes; and nothing more sacredly ob<g ref="char:EOLhyphen"/>served: The facing on us of King-killing Doctrine is a calum<g ref="char:EOLhyphen"/>ny contrary to our maxims and practice. We know that the foregoing words were uttered by our Saviour, <hi>Give Cesar,</hi> the Emperor,<note place="margin">1 <hi>Pet.</hi> 2 <hi>ver.</hi> 13.</note> the King, or the Prince, <hi>what belongs to him:</hi> and by St. <hi>Peter Ep.</hi> 1. <hi>Subjecti estote omni humanae creaturae propter Deum, sive Regi, quasi praecellenti,</hi> be humble and subject to eve<g ref="char:EOLhyphen"/>ry humane creature for God, to the King by reason of his Ex<g ref="char:EOLhyphen"/>cellency: By the same St. <hi>Peter</hi> in the same Chapter, <hi>ver.</hi> 17. <hi>Honorificate Regem,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 17. <hi>Ver.</hi> 18,</note> honour the King; and in <hi>ver.</hi> 18. <hi>Servi subditi estote in omni timore dominis, non tantum bonis &amp; modestis, sed etiam dyscolis;</hi> all ye that are servants be humble with all fear and submission to your Masters, not only those that are good and modest, but even to the froward.</p>
+            <p>St. <hi>Paul</hi> to the <hi>Romans, omnis anima potestatibus superioribus subdita sit,</hi>
+               <note place="margin">
+                  <hi>Rom</hi> 13.1.</note> let every soul be subject to the higher powers, their power is from God; so that he who outstands their power does resist Gods Ordination; the same doctrine he delivers in his Epistles to the <hi>Ephesians</hi> and <hi>Colossians:</hi>
+               <note place="margin">
+                  <hi>Ephes</hi> 6 5 <hi>Coll.</hi> 3.22</note> whence it is by Catholick doctrine certain, that though Princes were wicked, though Kings were tyrannical, yet for the Principality they
+<pb n="3" facs="tcp:38322:4"/>have from God, they are to be honoured, not in the least an<g ref="char:EOLhyphen"/>noyed. <hi>David</hi> honoured <hi>Saul,</hi> though by God reproved, though most unjustly his sworn enemy. St. <hi>Maurice,</hi> St. <hi>Sebastian,</hi> St. <hi>George,</hi> and thousands more fought under Infidel Emperors, and obeyed their orders in all things belonging to Principa<g ref="char:EOLhyphen"/>lity, when it did not intrench on the worship of the true God. <hi>Julian,</hi> says St. <hi>Augustin,</hi>
+               <note place="margin">Aug. in Psal. <hi>1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4.</hi>
+               </note> fell from a Christian Prince to be an Infidel, an Apostate, and Idolater; Christian Souldiers fol<g ref="char:EOLhyphen"/>lowed the Imperial Banners of the Pagan: When the cause of Christ was controverted, they knew but him; that is in Heaven: if he ordered them to excurr into that Province, to fight against that Enemy, to storm that City, he was exactly obeyed; only when the worship of a Statue, the adoration of an Idol, the burning of Frankincense to the Marble Gods was commanded,, then did they distinguish the Everlasting Lord from the Temporal; <hi>Reddite quae sunt Caesaris Caesari.</hi>
+            </p>
+            <p>This subordination of Inferiors to Superiors, this corres<g ref="char:EOLhyphen"/>pondence of Subjects to their Princes, is not only Divine Or<g ref="char:EOLhyphen"/>dination, as I have proved, but the dictates of very nature re<g ref="char:EOLhyphen"/>monstranced in the sensible and insensible creatures: The bo<g ref="char:EOLhyphen"/>dy answers the motion of the Soul, the Head rules the limbs of the body, the Heavenly bodies do command the earthly, so the Moon presides over the moist, the Stars over the vege<g ref="char:EOLhyphen"/>table, the Sun as King over earth and Stars. In the sensible creatures you will see the flocks of Cranes follow one leader, the Bees wait on their fair King, and at the trumpets signal attend his motion to sally from the cittadel of the Hive, and with drawn swords of stings, and sails of wings, they follow him to plunder the beauty of the Gardens, the ornament of the fields, the luster of the flowers, the blossomed dress of the trees, the gold of the rose, the silver of the lilly, the purple of the violet, to suck the thyme, to prey on the tulip, to rob the saffron, to plant a new colony, or conquer new territories. <hi>Tria sunt,</hi> says the Holy Ghost by the 30 Proverb, <hi>quae benè gradiuntur, &amp; quartum, quod feliciter incedit,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 30. <hi>ver.</hi> 29.</note> there are three things which go well, and the fourth walks happily; a Lion the strongest of Beasts, <hi>Gallus succinctus lumbos,</hi> a Cock girt in
+<pb n="4" facs="tcp:38322:5"/>his loins, (so does St. <hi>Jerome</hi> translate, but the English version has grey hound) a Ram, and a King, whom there is no re<g ref="char:EOLhyphen"/>sisting: such ought to be our obedience to our Soveraign Ru<g ref="char:EOLhyphen"/>ler, as is afforded by the irrational creatures to their noble Prince the Lion, by the innocent Hens to their vigilant Lea<g ref="char:EOLhyphen"/>der, by the white flock to their Head. From this obligation springs, that by all the Orthodox Doctors, the honour, wor<g ref="char:EOLhyphen"/>ship and obedience due to Princes, is commanded in that pre<g ref="char:EOLhyphen"/>cept of the Decalogue, wherein we are ordered to honour our Father and Mother, and that so positively, that there are ca<g ref="char:EOLhyphen"/>ses wherein our duty tells us we must rebel against those that begot us, to stick to those that rule us, and deny our Father to own our King.</p>
+            <p>Whence we must infer, that the least stir of tumult or re<g ref="char:EOLhyphen"/>bellion against the Prince is reluctant to all the Ordinances of Heaven, is an abortive product of Hell against the pure di<g ref="char:EOLhyphen"/>ctates of nature, and practice of the creatures both sensible and insensible: No pretence can authorize an insurrection, no excuse can qualifie a revolt, no misgovernment can justify the attempt to the Crown. <hi>Saul</hi> fought that fatal Battel with the <hi>Philistins,</hi> wherein he forfeited Son's, Kingdom and Life. A young Slip of <hi>Amaleck</hi> brought <hi>David</hi> the tidings of his <hi>ene<g ref="char:EOLhyphen"/>mies</hi> defeat along with his Crown,<note place="margin">2 <hi>Reg.</hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+               <hi>I stood on him,</hi> says he, <hi>at his own request, to put him out of pain, because he was run thorough with his lance past recovery, and I took the Crown that was on his head: David</hi> ordered him immediately to be killed. For what, I pray, so hard a <hi>sentence?</hi> for condescending to ease a dying man, for putting him, at his own intreaty, out of torture, for helping the feebleness of his pulse, that could not strike home. St. <hi>Peter Damianus</hi> thinks that was not the reason, <hi>Amalecites, dum diadema se de capite bellantis abstulisse confingit, gladio</hi> Da<g ref="char:EOLhyphen"/>vid <hi>percussus interiit,</hi> he was killed by <hi>David</hi> because he med<g ref="char:EOLhyphen"/>led with the Crown; there is no excuse for fingering with the Diadem, no circumstances can warrant the least violence a<g ref="char:EOLhyphen"/>gainst the <hi>Royal Dignity:</hi> The Gemms of the Crown are so many stars guarding the temples of the Prince, but so many thunderbolts in the hands of the subject; the Diadem is an
+<pb n="5" facs="tcp:38322:5"/>ornament on the Kings head, but a sword to spit himself with in the servan<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fingers; <hi>Reddite quae sunt, &amp;c.</hi>
+            </p>
+            <p>By the second of S. <hi>John,</hi> our Saviour <hi>tied a whip of some cords, slashed out those that were selling sheep &amp; cowes in the Temple,</hi>
+               <note place="margin">
+                  <hi>John</hi> 2. <hi>ver.</hi> 15.</note>
+               <hi>drove the cattel, scattered the moneys, tumbled the tables.</hi> Was it not more proper he should depute one of his Disciples to punish the misdemeanor, and correct the fault? No, says <hi>Eucherius, per semetipsum facta examinat magistrorum,</hi> the abuses commit<g ref="char:EOLhyphen"/>ted in the Temple, the irreverence to Gods Seat,<note place="margin">Eucherius lib. <hi>2.</hi> Reg.</note> the making the house of God an Exchange, was the defect of the Rulers, was the abuse of the Scribes and Pharises, who observed not the Laws, being Magistrates and Judges for their observance: Our Saviour then does not intrust his Apostles to punish the faults of their Sovereign Rulers, does not subdelegate his Dis<g ref="char:EOLhyphen"/>ciples to survey the actions of their Princes, to himself only he reserves their censure, to his own judgment does he confine their trral: let not the subject inspect into his Princes actions, let not the vassal judge his Judge; God only is beyond them, to him alone is the scrutiny of their doings reserved: the Prince must give the heavenly King account, the subjects none, of his feats, but of their own loyalty, <hi>Reddite, &amp;c.</hi>
+            </p>
+            <p>If it were lawful for any to murther his Prince, if warran<g ref="char:EOLhyphen"/>table to seize his Rights and Titles,<note place="margin">
+                  <hi>Exod.</hi> 5.</note> it would be certainly to <hi>Moses</hi> the messenger of God, the master of the Elements, the worker of Portents, and the God of <hi>Pharoah:</hi> He was ordered by God to rid his people of the slavery of <hi>Egypt:</hi> did he stir his congregation to a tumult? did he incite the popular in<g ref="char:EOLhyphen"/>clination to an insurrection? did he preach them that a re<g ref="char:EOLhyphen"/>bellion was wanrantable, when he had Gods Broad Seal for his security of delivering them? No; what then? <hi>Moses</hi> and <hi>Aaron</hi> entred to <hi>Pharoah</hi> and said, <hi>Haec dicit Dominus Deus Is<g ref="char:EOLhyphen"/>rael, dimitte populum meum ut sacriffeet mihi in deserto,</hi> My Sove<g ref="char:EOLhyphen"/>raign Lord and Liege, the Lord God of <hi>Israel</hi> sends you this message, <hi>Let go my people that they may offer me sacrifice in the desart:</hi> He does not conspire with his kinsmen to deprive <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> of his life, he does not plot with his Countreymen to rob him of his Crown; he makes his address like a good Subject
+<pb n="6" facs="tcp:38322:6"/>to his Prince, intimates him Gods Ordinances, strives to sway his power by reason, and smooth his might by perswasion. Hear from a learned Expounder <hi>Lypomann:</hi> these Brethren <hi>Moses</hi> and <hi>Aaron,</hi>
+               <note place="margin">Lypom. in <hi>5</hi> Ex<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</note> though they had a command from God of setting the Israelites free from the slavery of <hi>Pharaoh,</hi> and tho <hi>Pharaoh</hi> was a King beyond exceptions the most wicked of Princes, and one who by peremptory expressions was con<g ref="char:EOLhyphen"/>demned by God; yet they did not arm the Israelites their po<g ref="char:EOLhyphen"/>pular against the King the lawful Magistrate in <hi>Egypt,</hi> they did not lay a-wait for his life, nor ambush his breath, but ra<g ref="char:EOLhyphen"/>ther contain themselves in all due subjection, and beg submis<g ref="char:EOLhyphen"/>sively and obediently the retrieve of their <hi>grievances.</hi> So far is the Subject from being impowered to make an insurrection, so distant from being authorized to aim at the murther, at the Diadem, at the prerogative of the Prince; whose censure, if disordered, is not to be scanded by the servant, but examined by God alone, <hi>Reddite quae sunt Caesaris Caesari.</hi>
+            </p>
+            <p>You see, <hi>Catholicks,</hi> how contrary to the Laws of God, how great enemies of Heaven, how hellishly addicted were those who occasioned the present Assembly of our thanksgiving, who aimed at the Birthright, at the Scepter, at the Crown, at (I tremble to utter it) the life of noble King <hi>Charles.</hi> If there were miscarriage in his Government, it tyranny in his Coun<g ref="char:EOLhyphen"/>cils, if heavy loads on his Subjects, if grievances on his Vassals, even then insurrection would be damnable, rebellion would be diabolical, murther would be the blackest of Treasons, as I have proved. Rebel then, what will your Plot be? what co<g ref="char:EOLhyphen"/>lours will your conspiracy bear? what shapes will your hel<g ref="char:EOLhyphen"/>lish design carry, when all his actions do make out the contra<g ref="char:EOLhyphen"/>ry extreams? Was it because he made your Territories hap<g ref="char:EOLhyphen"/>py beyond the Provinces of <hi>Europe,</hi> that you envied his life worthy to continue thorough the years of Eternity? Was it, because he reduced your divisions into union, your usurped power into lawful, your abuses to rights, and your riots to ci<g ref="char:EOLhyphen"/>vility? Was it, because he enriched your Towns with plenty, your Garrisons with peace, your Estates with settlement, your Families with quietness, your Commerce with gain, your Tra<g ref="char:EOLhyphen"/>ding
+<pb n="7" facs="tcp:38322:6"/>with security, your Nation with victories? Was it, be cause he stored your Countrey with wealth, your Banks with credit, your Coffers with the coin of all Nations, your Mints with the Plate of <hi>Mexico,</hi> and Gold of <hi>Peru?</hi>
+               <note place="margin">3 <hi>Reg</hi> 10 <hi>ver.</hi> 2.</note> So that in his time Silver is in <hi>England,</hi> as it was in <hi>Solomons</hi> days in <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> as thick as stones; or like the Birth-time of <hi>Pallas</hi> by the Fables, whole showers of Plate poured on the earth. Was it, because that on his own account he cleared your Brethren from the bondage of <hi>Argier?</hi> Was it, because he secured your Navigation from <hi>Norway</hi> to <hi>Scanderoon,</hi> from <hi>Lands end</hi> to the remotest <hi>Philippina?</hi> Was it, because he made common to your Nation the <hi>porcellans</hi> of <hi>China,</hi> the wealth of <hi>Japan,</hi> the spices of the <hi>Molucas,</hi> the pearls of the <hi>East,</hi> the gold of <hi>Gui<g ref="char:EOLhyphen"/>ney,</hi> the varieties of the <hi>Medicerranean,</hi> the silks of <hi>Levant,</hi> the deliciousness of <hi>Italy,</hi> the <hi>Canary, Spanish, Rhenich,</hi> and <hi>Cala<g ref="char:EOLhyphen"/>brian</hi> relishes? Was it, because he yielded your friendship courted by all near and forreign Nations, and your enmity formidable to the remotest? Was it, because that from the rising of the Sun the <hi>Bantam</hi> with his Embassy wooed you, the <hi>Russian</hi> complemented you, the <hi>Morocco</hi> courted you, and he that stiles himself God of the Earth the <hi>Grand Seignior</hi> hono<g ref="char:EOLhyphen"/>red you? If your obstinacy does not deafen you, and your black Treason blind you from hearing &amp; seeing in these rea<g ref="char:EOLhyphen"/>sons your obligation to your Royal Ruler, I will instance one point more wherein he tops the greatest vertue of a Prince.</p>
+            <p>Among the Vertues that yield Monarchs great, Liberality is the Queen. I mistake if there be any attribute in Gods perfe<g ref="char:EOLhyphen"/>ctions, that he brags of so much as of Mercy and Munificence; its beyond all his works, by the Royal Prophet: and our Sa<g ref="char:EOLhyphen"/>viour discoursing to him says, <hi>Pater, Domine Coeli &amp; terrae,</hi>
+               <note place="margin">
+                  <hi>Matt.</hi> 11.</note> Fa<g ref="char:EOLhyphen"/>ther, Lord of heaven and earth; first Father, then Lord; for fatherly sweetness is the first thing that appears in a good Prince. <hi>Misereris, omnium, quoniam potes omnia,</hi>
+               <note place="margin">
+                  <hi>Sap.</hi> 1.</note> says the Book of <hi>Wisdom,</hi> you take compassion on all, because you are all powerful: God will have his beneficence run the same course of his power, his mercies take the same measure of his com<g ref="char:EOLhyphen"/>mand, and his bounty sly as far as his <hi>Seniories.</hi> If you intend,
+<pb n="8" facs="tcp:38322:7"/>says the golden bill of St. <hi>John Chrysostom,</hi> to commend a Prince,<note place="margin">Chrysost. hom. <hi>4.</hi> ad Philip.</note> you can fix nothing on him more commendable than mercy, <hi>principatus enim proprium est misereri</hi> the main point that belongs to a Prince is compassion, the greatest ornament of the Scepter is giving, the richest Carbuncle of the Diadem is mu<g ref="char:EOLhyphen"/>nificence. That King of <hi>Italy Theodorick</hi> happy in his Secretary <hi>Cassiodorus,</hi> said, that it is the part of a benign Prince to go beyond the bounds of equity for the advantage of clemency, <hi>quando sola est miscricordia,</hi>
+               <note place="margin">
+                  <hi>Cassiod.</hi> 2. <hi>var.</hi> 9.</note>
+               <hi>cui omnes virtutes cedere honorabili<g ref="char:EOLhyphen"/>ter non recusant,</hi> for only mercy is the vertue to which all other vertues do yield, do give place, do get out of the way for ho<g ref="char:EOLhyphen"/>nours sake.</p>
+            <p>
+               <hi>Quasi primogeniti tauri pulchritudo ejus,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 33.</note> says the 33 of <hi>Deut.</hi> speaking of <hi>Joseph,</hi> that his beauty is like that of a firstling Bull: the Bull is of the stoutest Fighters, but with this dif<g ref="char:EOLhyphen"/>ference, that the Lion, the Eagle, and such like, do fight for spoil, do quarrel for prey and food; but the Bull satisfied with the next grass, oppresses none for his own food, drinks nones blood, fights and wrastles for his Herd, does not combat for larger grasing. Such a kingdom is praised in <hi>Joseph,</hi> that stands by suavity, not by rigor; by mildness, not by blood; by mu<g ref="char:EOLhyphen"/>nificence, not by exaction. I am deceived if the want of this vertue did not deprive <hi>Moses</hi> of the entrance and kingdom of <hi>Canaan:</hi>
+               <note place="margin">
+                  <hi>Num.</hi> 20.</note>
+               <hi>Speak</hi> (says God to him) <hi>to the rock, and it will give water:</hi> He took his wonderful rod, struck the rock twice, and abundance of water spouted out; but he lost the possession of the holy land thereby. What did he act unbecoming a great Ruler or Prince! I'll tell you; he did not speak to the rock as he was commanded, <hi>loquimini ad petram,</hi> but struck the stone once and again, as if the water did not relish with him, unless it did gush from strokes, and drop from wounds; nothing more unbeseeming a Royal mind: therefore is this great Go<g ref="char:EOLhyphen"/>vernour told he shall never enter his conquest of the promised land for the action.</p>
+            <p>What did your Blunderbush Traytor expect to meet in the breast of your Soveraign? it would meet a heart so sweet, so merciful, so compassive, so beneficent and liberal, that I believe
+<pb n="9" facs="tcp:38322:7"/>the lead, capable of more tender impression than your cruelty, would sly back from annoying it. As mercy is the Queen of Royal Vertues, so has it swayed in his Kingly mind, compas<g ref="char:EOLhyphen"/>sive almost to excel. Where did one of a thousand suffer, that were involved in the darkest crimes? never did one suffer whom it were mercy to save, or with whom the Laws could dispence. Never did Prince less rack his Subjects,<note place="margin">Free gifts of Parlia<g ref="char:EOLhyphen"/>ment.</note> less suck their substance: He exacted not, they bestowed; they made free gifts, he compelled not: but out of his own patrimony maintained their peace and wealth at home, their traffick, cor<g ref="char:EOLhyphen"/>respondence and confederacies abroad; so indulgent, that ne<g ref="char:EOLhyphen"/>ver was <hi>England</hi> now what it is. I may compare him to the King of the Bees, who remarkable for his golden spots, yet is more renowned, that void of anger he bears no weapon, car<g ref="char:EOLhyphen"/>ries <hi>no sting, Picula nam Princeps figere nescit apum.</hi>
+            </p>
+            <p>His liberality finds always work for his singers, none de<g ref="char:EOLhyphen"/>parts from those hands dissatisfied that asks within reason; his <hi>glories</hi> do depend of <hi>bestowing,</hi> when others rejoyce in get<g ref="char:EOLhyphen"/>ting. He may be stiled with the Emperor <hi>Titus, deliciae huma<g ref="char:EOLhyphen"/>ni generis,</hi> the delight of mankind, who used that <hi>golden sen<g ref="char:EOLhyphen"/>tence,</hi> when a day slipped him wherein he had done <hi>no body</hi> some particular kindness, <hi>Amici diem perdidinius,</hi> Friends,<note place="margin">Cassiod<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Var. <hi>1.</hi>
+               </note> we have lost a day. I may say of him what the luxuriant Pen of <hi>Cassiodorus</hi> said of his <hi>Italian</hi> Queen, <hi>cui par est quidem aequitas &amp; voluntas, sed major benignitas quàm potentia;</hi> Our Prince has Equity and Justice, Territories and Kingdoms, Armies and Fleets, <hi>sed major benignitas quam potentia,</hi> yet more benignity than <hi>power,</hi> more mercy than <hi>authority,</hi> more liberality than revenue, more of fatherly tenderness than Imperial command. What occasion then, Parricide, had you to intrap that life so loving, so sweet, so commendable? unless you say, that as the devil hates God because he is good, so did you your Prince for his Kingly parts.</p>
+            <p>Welcome then, happy Soveraign, from the Bullets of your Murtherers: We <hi>congratulate</hi> the escape of that life <hi>worthy</hi> to live eternities: Live many years, and reign by <hi>love</hi> in the <hi>hearts</hi> of <hi>your true Subjects,</hi> and by <hi>terror</hi> in your enemies, when so
+<pb n="10" facs="tcp:38322:8"/>many amiable parts of your person do not perswade their ob<g ref="char:EOLhyphen"/>stinacy. As you command by love in our souls, so we summon all our power and faculties, our reason and senses to render with a joyful heart our most cordial thanks to Almighty God for your safe escape. We invite, O merciful God, the fishes of the Sea, the innocent notes of the chirping Birds of the Air, the beauty of the creatures on Earth, the noble Elements, the splendor of the Celestial Luminaries, the gemms of the Fir<g ref="char:EOLhyphen"/>mament, the heavenly Quires from the lowest Angel and Saint to the highest Seraphim to magnify thy Mercy, to extol thy Providence, to admire thy Bounty, to offer Thee prostrate most infinite thanks for thy gracious care over our Prince, and to help in the present Auditory to sing you a
+<q>
+                  <l>Te Deum Laudamus,</l>
+                  <l>Te Dominum confitemur, &amp;c.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38322:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
